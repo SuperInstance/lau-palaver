@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Consensus protocol inspired by the West African palaver tree — decisions through discussion until everyone agrees"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-palaver"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
